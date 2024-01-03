@@ -6,7 +6,7 @@ I'm a 3rd-year student pursuing a Bachelor's in Informatics and Computer Enginee
 :seedling: I'm a tech enthusiast with a strong inclination towards understanding how things work under the hood. <br />
 :sparkles: I also love to play video games and explore new technologies in my free time <br />
 
-## Skills
+
 
 ## Skills
 
