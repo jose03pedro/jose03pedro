@@ -1,12 +1,10 @@
 # Hello, I'm José Santos 👋
 
-I'm a 3rd-year student pursuing a Bachelor's in Informatics and Computer Engineering. Passionate about software development and technology, I have experience in various programming languages and technologies.
+1st year of Msc degree in Software Engineering at FEUP. Passionate about software development and technology, I have experience in various programming languages and technologies.
 
-:telescope: I’m deeply interested in Low-Level Programming, Web Technologies and Databases <br />
-:seedling: I'm a tech enthusiast with a strong inclination towards understanding how things work under the hood. <br />
-:sparkles: I also love to play video games and explore new technologies in my free time <br />
-
-
+:telescope: I’m deeply interested in Web Technologies, Databases, and DevOps <br/>
+:seedling: I'm a tech enthusiast with a strong inclination towards understanding how things work under the hood. <br/>
+:sparkles: I also love to play video games and explore new technologies in my free time <br/>
 
 ## Skills
 
@@ -15,24 +13,30 @@ I'm a 3rd-year student pursuing a Bachelor's in Informatics and Computer Enginee
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/-Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 
 ### Web Technologies
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 
 ### Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![MQTT](https://img.shields.io/badge/-MQTT-FF6600?style=flat-square&logo=mqtt&logoColor=white)
 
 ### DevOps
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions&logoColor=white)
 
 ## GitHub Stats
 
