@@ -42,9 +42,9 @@
 
 <div style="display: flex; flex-direction: row;">
   
-  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jose03pedro&show_icons=true&hide_border=true&theme=catppuccin_mocha)
+  ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jose03pedro&show_icons=true&hide_border=true&theme=dark)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose03pedro&layout=compact&hide_border=true&theme=catppuccin_mocha)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jose03pedro&layout=compact&hide_border=true&theme=dark)
   
 </div>
 
